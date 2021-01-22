@@ -6,7 +6,7 @@ module.exports = {
       summary: `Full stack web developer`,
     },
     description: `Resources and news on full stack web development ecosystem`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `https://fullstackguru.info/`,
     social: {
       twitter: `chuckmunson2`,
     },
@@ -53,7 +53,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `G-Z1MCREL171`,
       },
     },
     `gatsby-plugin-feed`,

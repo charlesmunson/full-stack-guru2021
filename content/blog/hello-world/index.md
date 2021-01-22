@@ -1,7 +1,7 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: Blog Style Settings
+date: "2021-01-201T22:12:03.284Z"
+description: "Saving the default blog style guide"
 ---
 
 This is my first post on my new fake blog! How exciting!

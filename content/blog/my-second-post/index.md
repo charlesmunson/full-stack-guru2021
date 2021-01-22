@@ -1,13 +1,10 @@
 ---
-title: My Second Post!
-date: "2015-05-06T23:46:37.121Z"
+title: Project Road Map
+date: "2021-01-21T23:46:37.121Z"
 ---
 
-Wow! I love blogging so much already.
+Road map for the Full Stack Guru website.
 
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](https://en.wikipedia.org/wiki/Salted_duck_egg))
+Currently, getting things set up on Gatsby, Netlify and Sanity.
 
-Yeah, I didn't either.
+Chuck
