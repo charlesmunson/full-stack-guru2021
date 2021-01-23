@@ -1,6 +1,6 @@
 ---
 title: Blog Style Settings
-date: "2021-01-201T22:12:03.284Z"
+date: "2021-01-19T23:46:37.121Z"
 description: "Saving the default blog style guide"
 ---
 
