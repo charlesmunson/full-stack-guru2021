@@ -11,3 +11,27 @@ Here is our initial guide to Full Stack Web Development resources. Eventually, t
 
 ## Jamstack Resources
 
+* [Jamstack](https://jamstack.org "Jamstack")
+
+## Gatsby
+
+* [Gatsby](https://gatsbyjs.com "Gatsby")
+
+## Serverless Platforms
+
+* [Netlify](https://www.netlify.com "Netlify")
+
+## Site Generators
+
+* [Gatsby](https://gatsbyjs.com "Gatsby")
+* [Hugo](https://gohugo.io "Hugo")
+* [Next.js](https://nextjs.org "Next.js")
+
+## Intros
+
+* [Beginner’s Guide To Full Stack Web Development](https://www.crampete.com/blogs/beginners-guide-to-full-stack-web-development/)
+
+## Learning Paths
+
+* [Full-Stack Developer Learning Path AWS](https://aws.amazon.com/getting-started/learning-path-full-stack-developer/)
+* [How To Become A Full Stack Developer In 2020](https://redblink.com/become-full-stack-developer-2019-roadmap/)
