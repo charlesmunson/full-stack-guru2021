@@ -29,9 +29,34 @@ Here is our initial guide to Full Stack Web Development resources. Eventually, t
 
 ## Intros
 
+* [Top 10 Skills to Become a Full-Stack Developer in 2021](https://www.upgrad.com/blog/skills-to-become-a-full-stack-developer/)
 * [Beginner’s Guide To Full Stack Web Development](https://www.crampete.com/blogs/beginners-guide-to-full-stack-web-development/)
+* [Being a Full Stack Developer](https://www.sitepoint.com/full-stack-developer/ "Being a Full Stack Developer")
 
 ## Learning Paths
 
 * [Full-Stack Developer Learning Path AWS](https://aws.amazon.com/getting-started/learning-path-full-stack-developer/)
 * [How To Become A Full Stack Developer In 2020](https://redblink.com/become-full-stack-developer-2019-roadmap/)
+
+## Courses
+
+* [Coding Ninjas](https://www.codingninjas.com/courses/online-full-stack-node-js-web-dev-course)
+* [FrontendMasters](https://frontendmasters.com/ "FrontendMasters")
+* [Udacity](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044)
+
+## Podcasts
+
+* [Full Stack Radio](https://fullstackradio.com/ "Full Stack Radio")
+* [Syntax.fm](https://syntax.fm/ "Syntax.fm")
+
+## General Web Development Resources
+
+* [MDN Web Docs](https://developer.mozilla.org/en-US/)
+
+## Blogs
+
+* [Hacks - Mozilla.org](https://hacks.mozilla.org/)
+
+## Front End Development
+
+* [Front End Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
