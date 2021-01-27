@@ -9,6 +9,13 @@ Here is our initial guide to Full Stack Web Development resources. Eventually, t
 > A full stack web developer is a person who can develop
 > both client and server software.
 
+
+## New Stuff
+
+* [HTML DOM](https://htmldom.dev)
+* [Static Site Generators Explained in 5 minutes](https://www.cosmicjs.com/blog/static-site-generators-explained-in-5-minutes)
+* [How to Manipulate the DOM - the Ultimate Beginner's Guide](https://www.freecodecamp.org/news/how-to-manipulate-the-dom-beginners-guide/)
+
 ## Jamstack Resources
 
 * [Jamstack](https://jamstack.org "Jamstack")
