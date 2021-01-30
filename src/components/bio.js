@@ -53,12 +53,11 @@ const Bio = () => {
       )}
       {author?.name && (
         <p>
-          Written by <strong>{author.name}</strong><br /> {author?.summary || null}
+          Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
-          <p>Twitter: <a href={`https://twitter.com/${social?.twitter || ``}`}>
-          <br />Full Stack Substack: <a href="https://fullstackguru.substack.com/">(newsletter)</a>
-          <br />Website: <a href="https://www.breadandrosesweb.com/">Bread and Roses Web Solutions</a>
-         
+          <br /><a href={`https://twitter.com/${social?.twitter || ``}`}>
+          <br />You should follow them on Twitter
+          </a>
         </p>
       )}
     </div>
